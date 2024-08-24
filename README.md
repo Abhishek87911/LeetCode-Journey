@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0564-find-the-closest-palindrome](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0564-find-the-closest-palindrome) |
 | [0664-strange-printer](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0664-strange-printer) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0564-find-the-closest-palindrome](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1240-stone-game-ii) |
 ## Stack
