@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1325-path-with-maximum-probability) |
 | [1694-make-sum-divisible-by-p](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1694-make-sum-divisible-by-p) |
+| [1896-maximum-score-from-performing-multiplication-operations](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1985-maximum-subarray-min-product](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1985-maximum-subarray-min-product) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2067-maximum-number-of-points-with-cost) |
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1240-stone-game-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1240-stone-game-ii) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
+| [1896-maximum-score-from-performing-multiplication-operations](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2067-maximum-number-of-points-with-cost) |
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3525-maximum-energy-boost-from-two-drinks) |
