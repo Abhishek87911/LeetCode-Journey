@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0890-lemonade-change) |
 | [1240-stone-game-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1240-stone-game-ii) |
+| [1325-path-with-maximum-probability](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1325-path-with-maximum-probability) |
 | [1694-make-sum-divisible-by-p](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1694-make-sum-divisible-by-p) |
 | [1985-maximum-subarray-min-product](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1985-maximum-subarray-min-product) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -97,4 +98,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1985-maximum-subarray-min-product](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1985-maximum-subarray-min-product) |
+## Graph
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1325-path-with-maximum-probability) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1325-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
