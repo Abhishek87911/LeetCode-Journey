@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-maximum-subarray-min-product](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1985-maximum-subarray-min-product) |
 | [2035-count-sub-islands](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2067-maximum-number-of-points-with-cost) |
+| [3113-beautiful-towers-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3113-beautiful-towers-ii) |
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3525-maximum-energy-boost-from-two-drinks) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1985-maximum-subarray-min-product](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1985-maximum-subarray-min-product) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3113-beautiful-towers-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3113-beautiful-towers-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1985-maximum-subarray-min-product](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1985-maximum-subarray-min-product) |
+| [3113-beautiful-towers-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3113-beautiful-towers-ii) |
 ## Graph
 |  |
 | ------- |
