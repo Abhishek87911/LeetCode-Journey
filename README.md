@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-maximum-subarray-min-product](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1985-maximum-subarray-min-product) |
 | [2035-count-sub-islands](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2915-count-of-interesting-subarrays](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2915-count-of-interesting-subarrays) |
 | [3113-beautiful-towers-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3113-beautiful-towers-ii) |
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1694-make-sum-divisible-by-p) |
+| [2915-count-of-interesting-subarrays](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2915-count-of-interesting-subarrays) |
 ## String
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1694-make-sum-divisible-by-p) |
 | [1985-maximum-subarray-min-product](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1985-maximum-subarray-min-product) |
+| [2915-count-of-interesting-subarrays](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2915-count-of-interesting-subarrays) |
 ## Game Theory
 |  |
 | ------- |
