@@ -14,13 +14,10 @@ public:
         long long res=0;
         for(int i=0;i<n;i++)
         {
-            prefSum=(prefSum+arr[i]);
-            int modV = prefSum%mod;
-            if(modV == k) res++;
-            int find = modV-k;
-            if(find<0) find+=mod;
-            res+=mp[find];
-            mp[modV]++;
+            prefSum=(prefSum+arr[i])%mod;
+            if(prefSum == k) res++;
+            res+=mp[(prefSum-k+mod)%mod];
+            mp[prefSum]++;
 
         }
         return res;
