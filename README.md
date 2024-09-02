@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1240-stone-game-ii) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2067-maximum-number-of-points-with-cost) |
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3525-maximum-energy-boost-from-two-drinks) |
@@ -123,17 +124,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1325-path-with-maximum-probability) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2803-modify-graph-edge-weights](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2803-modify-graph-edge-weights) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0794-swim-in-rising-water) |
 | [1325-path-with-maximum-probability](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1325-path-with-maximum-probability) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2803-modify-graph-edge-weights](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1325-path-with-maximum-probability) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2803-modify-graph-edge-weights](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2803-modify-graph-edge-weights) |
 ## Depth-First Search
 |  |
@@ -163,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1046-max-consecutive-ones-iii) |
+## Topological Sort
+|  |
+| ------- |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 <!---LeetCode Topics End-->
