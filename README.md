@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1325-path-with-maximum-probability) |
 | [1694-make-sum-divisible-by-p](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1694-make-sum-divisible-by-p) |
+| [1831-ways-to-split-array-into-three-subarrays](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1985-maximum-subarray-min-product](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1985-maximum-subarray-min-product) |
 | [2035-count-sub-islands](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2035-count-sub-islands) |
@@ -40,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1831-ways-to-split-array-into-three-subarrays](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0794-swim-in-rising-water](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1046-max-consecutive-ones-iii) |
+| [1831-ways-to-split-array-into-three-subarrays](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 ## Sorting
 |  |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1240-stone-game-ii) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1694-make-sum-divisible-by-p) |
+| [1831-ways-to-split-array-into-three-subarrays](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1985-maximum-subarray-min-product](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1985-maximum-subarray-min-product) |
 | [2915-count-of-interesting-subarrays](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2915-count-of-interesting-subarrays) |
 ## Game Theory
