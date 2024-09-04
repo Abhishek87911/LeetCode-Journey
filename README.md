@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0794-swim-in-rising-water](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0794-swim-in-rising-water) |
 | [0890-lemonade-change](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0906-walking-robot-simulation) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1240-stone-game-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [0906-walking-robot-simulation](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0906-walking-robot-simulation) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+## Simulation
+|  |
+| ------- |
+| [0906-walking-robot-simulation](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0906-walking-robot-simulation) |
 <!---LeetCode Topics End-->
