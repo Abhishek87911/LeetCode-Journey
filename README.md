@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1240-stone-game-ii) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2411-spiral-matrix-iv) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1484-linked-list-in-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
