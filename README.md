@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0241-different-ways-to-add-parentheses) |
 | [0650-2-keys-keyboard](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0664-strange-printer) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0179-largest-number](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0241-different-ways-to-add-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0564-find-the-closest-palindrome](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0564-find-the-closest-palindrome) |
 | [0664-strange-printer](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0664-strange-printer) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0241-different-ways-to-add-parentheses) |
 | [0564-find-the-closest-palindrome](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1240-stone-game-ii) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0241-different-ways-to-add-parentheses) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 ## Segment Tree
 |  |
@@ -224,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
