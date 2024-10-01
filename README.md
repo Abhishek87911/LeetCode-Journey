@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0179-largest-number) |
+| [0493-reverse-pairs](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0493-reverse-pairs) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0729-my-calendar-i) |
 | [0794-swim-in-rising-water](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0794-swim-in-rising-water) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0493-reverse-pairs) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0729-my-calendar-i) |
 | [0794-swim-in-rising-water](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0794-swim-in-rising-water) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0729-my-calendar-i) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 ## Monotonic Stack
@@ -253,5 +256,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0729-my-calendar-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
