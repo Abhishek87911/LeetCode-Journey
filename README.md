@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1694-make-sum-divisible-by-p) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1985-maximum-subarray-min-product](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1985-maximum-subarray-min-product) |
@@ -281,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+## Backtracking
+|  |
+| ------- |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 <!---LeetCode Topics End-->
