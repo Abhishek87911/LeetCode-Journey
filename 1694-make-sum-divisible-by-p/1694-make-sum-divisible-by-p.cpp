@@ -1,6 +1,7 @@
 class Solution {
 public:
     int minSubarray(vector<int>& nums, int p) {
+        //Just Like minimum length subarray with given sum
         int n = nums.size();
         int r=0;
         for(auto x: nums) r = (x+r)%p;
