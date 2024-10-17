@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1240-stone-game-ii) |
+| [1277-largest-multiple-of-three](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1277-largest-multiple-of-three) |
 | [1325-path-with-maximum-probability](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1435-xor-queries-of-a-subarray) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0664-strange-printer) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1240-stone-game-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1240-stone-game-ii) |
+| [1277-largest-multiple-of-three](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1277-largest-multiple-of-three) |
 | [1587-parallel-courses-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1587-parallel-courses-ii) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0179-largest-number) |
 | [0670-maximum-swap](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0890-lemonade-change) |
+| [1277-largest-multiple-of-three](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1277-largest-multiple-of-three) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2616-maximal-score-after-applying-k-operations) |
