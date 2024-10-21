@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1694-make-sum-divisible-by-p) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2755-extra-characters-in-a-string](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2755-extra-characters-in-a-string) |
 | [2915-count-of-interesting-subarrays](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2915-count-of-interesting-subarrays) |
 ## String
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0664-strange-printer) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2755-extra-characters-in-a-string](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2755-extra-characters-in-a-string) |
 ## Math
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Bitmask
 |  |
