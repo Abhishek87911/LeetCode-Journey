@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1240-stone-game-ii) |
 | [1277-largest-multiple-of-three](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1277-largest-multiple-of-three) |
 | [1325-path-with-maximum-probability](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1325-path-with-maximum-probability) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1435-xor-queries-of-a-subarray) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1694-make-sum-divisible-by-p) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1240-stone-game-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1240-stone-game-ii) |
 | [1277-largest-multiple-of-three](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1277-largest-multiple-of-three) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1587-parallel-courses-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1587-parallel-courses-ii) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0794-swim-in-rising-water) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2035-count-sub-islands](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2035-count-sub-islands) |
 | [2047-find-a-peak-element-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2047-find-a-peak-element-ii) |
 | [2411-spiral-matrix-iv](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2411-spiral-matrix-iv) |
