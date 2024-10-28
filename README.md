@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2047-find-a-peak-element-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2411-spiral-matrix-iv](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2411-spiral-matrix-iv) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2690-house-robber-iv](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2690-house-robber-iv) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2586-longest-square-streak-in-an-array) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2755-extra-characters-in-a-string](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2755-extra-characters-in-a-string) |
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1046-max-consecutive-ones-iii) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [2047-find-a-peak-element-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2047-find-a-peak-element-ii) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2586-longest-square-streak-in-an-array) |
 | [2690-house-robber-iv](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2690-house-robber-iv) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 ## Sorting
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0179-largest-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Greedy
 |  |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2755-extra-characters-in-a-string) |
 | [2915-count-of-interesting-subarrays](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2915-count-of-interesting-subarrays) |
 ## String
