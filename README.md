@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2690-house-robber-iv](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2690-house-robber-iv) |
 | [2755-extra-characters-in-a-string](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2915-count-of-interesting-subarrays](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2915-count-of-interesting-subarrays) |
 | [3113-beautiful-towers-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3113-beautiful-towers-ii) |
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2586-longest-square-streak-in-an-array) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2755-extra-characters-in-a-string](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## Two Pointers
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2047-find-a-peak-element-ii) |
 | [2411-spiral-matrix-iv](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2411-spiral-matrix-iv) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
