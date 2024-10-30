@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1435-xor-queries-of-a-subarray) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1694-make-sum-divisible-by-p) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1831-ways-to-split-array-into-three-subarrays) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1587-parallel-courses-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1587-parallel-courses-ii) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0729-my-calendar-i) |
 | [0794-swim-in-rising-water](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1046-max-consecutive-ones-iii) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [2047-find-a-peak-element-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2047-find-a-peak-element-ii) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2586-longest-square-streak-in-an-array) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0890-lemonade-change) |
 | [1277-largest-multiple-of-three](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1277-largest-multiple-of-three) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2616-maximal-score-after-applying-k-operations) |
