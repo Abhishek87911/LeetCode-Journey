@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1831-ways-to-split-array-into-three-subarrays) |
+| [1881-closest-subsequence-sum](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1881-closest-subsequence-sum) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1985-maximum-subarray-min-product](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1985-maximum-subarray-min-product) |
 | [2035-count-sub-islands](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2035-count-sub-islands) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1587-parallel-courses-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1587-parallel-courses-ii) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1881-closest-subsequence-sum](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1881-closest-subsequence-sum) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1831-ways-to-split-array-into-three-subarrays) |
+| [1881-closest-subsequence-sum](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1881-closest-subsequence-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1587-parallel-courses-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1587-parallel-courses-ii) |
+| [1881-closest-subsequence-sum](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1881-closest-subsequence-sum) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 ## Memoization
 |  |
@@ -337,4 +341,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1587-parallel-courses-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1587-parallel-courses-ii) |
+| [1881-closest-subsequence-sum](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1881-closest-subsequence-sum) |
 <!---LeetCode Topics End-->
