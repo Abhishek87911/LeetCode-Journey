@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0567-permutation-in-string) |
 | [0664-strange-printer](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0664-strange-printer) |
+| [0812-rotate-string](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0812-rotate-string) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -345,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1587-parallel-courses-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1587-parallel-courses-ii) |
 | [1881-closest-subsequence-sum](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1881-closest-subsequence-sum) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
