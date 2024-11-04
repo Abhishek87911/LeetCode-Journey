@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [1985-maximum-subarray-min-product](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1985-maximum-subarray-min-product) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3113-beautiful-towers-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3113-beautiful-towers-ii) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0729-my-calendar-i](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0729-my-calendar-i) |
 ## Ordered Set
 |  |
@@ -361,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0812-rotate-string) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
