@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2755-extra-characters-in-a-string](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2755-extra-characters-in-a-string) |
+| [3451-string-compression-iii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3451-string-compression-iii) |
 ## Math
 |  |
 | ------- |
