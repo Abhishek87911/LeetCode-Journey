@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2032-largest-odd-number-in-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2755-extra-characters-in-a-string](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2755-extra-characters-in-a-string) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3451-string-compression-iii) |
 ## Math
 |  |
