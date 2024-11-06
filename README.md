@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
+| [0295-find-median-from-data-stream](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1831-ways-to-split-array-into-three-subarrays) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0179-largest-number) |
+| [0295-find-median-from-data-stream](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [2554-minimum-total-distance-traveled](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/2554-minimum-total-distance-traveled) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0794-swim-in-rising-water](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0794-swim-in-rising-water) |
 | [1325-path-with-maximum-probability](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1325-path-with-maximum-probability) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0729-my-calendar-i](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0729-my-calendar-i) |
 ## Ordered Set
 |  |
@@ -371,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0232-implement-queue-using-stacks) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
