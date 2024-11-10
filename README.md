@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3113-beautiful-towers-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3113-beautiful-towers-ii) |
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## Dynamic Programming
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1587-parallel-courses-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1587-parallel-courses-ii) |
 | [1881-closest-subsequence-sum](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1881-closest-subsequence-sum) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3394-minimum-array-end) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 ## Memoization
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/1046-max-consecutive-ones-iii) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Abhishek87911/LeetCode-Journey/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Topological Sort
 |  |
 | ------- |
